@@ -13,6 +13,7 @@ import Inspect from 'vite-plugin-inspect'
 import Prism from 'markdown-it-prism'
 import LinkAttributes from 'markdown-it-link-attributes'
 import Unocss from 'unocss/vite'
+import WindiCSS from 'vite-plugin-windicss'
 
 const markdownWrapperClasses = 'prose prose-sm m-auto text-left'
 
@@ -24,6 +25,7 @@ export default defineConfig({
   },
 
   plugins: [
+    WindiCSS(),
     Vue({
       include: [/\.vue$/, /\.md$/],
       reactivityTransform: true,
@@ -62,6 +64,15 @@ export default defineConfig({
     // https://github.com/antfu/unocss
     // see unocss.config.ts for config
     Unocss(),
+    // css: {
+    //   // css预处理器
+    //   preprocessorOptions: {
+    //     scss: {
+    //       charset: false,
+    //       additionalData: '@import "./src/assets/style/global.scss";',
+    //     },
+    //   },
+    // },
 
     // https://github.com/antfu/vite-plugin-md
     // Don't need this? Try vitesse-lite: https://github.com/antfu/vitesse-lite

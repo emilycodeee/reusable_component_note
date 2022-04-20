@@ -6,6 +6,7 @@ import generatedRoutes from '~pages'
 import '@unocss/reset/tailwind.css'
 import './styles/main.css'
 import 'uno.css'
+import 'virtual:windi.css'
 
 const routes = setupLayouts(generatedRoutes)
 
