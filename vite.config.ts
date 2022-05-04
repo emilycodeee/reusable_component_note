@@ -18,13 +18,16 @@ import WindiCSS from 'vite-plugin-windicss'
 const markdownWrapperClasses = 'prose prose-sm m-auto text-left'
 
 export default defineConfig({
+  base: '/reusable_component_note/',
   resolve: {
     alias: {
       '~/': `${path.resolve(__dirname, 'src')}/`,
     },
+
   },
 
   plugins: [
+
     WindiCSS(),
     Vue({
       include: [/\.vue$/, /\.md$/],
