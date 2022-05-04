@@ -1,0 +1,125 @@
+{
+  "vite/modulepreload-polyfill": [],
+  "locales/ar.yml": [],
+  "locales/de.yml": [],
+  "locales/en.yml": [],
+  "locales/es.yml": [],
+  "locales/fr.yml": [],
+  "locales/id.yml": [],
+  "locales/it.yml": [],
+  "locales/ja.yml": [],
+  "locales/ko.yml": [],
+  "locales/pl.yml": [],
+  "locales/pt-BR.yml": [],
+  "locales/ru.yml": [],
+  "locales/tr.yml": [],
+  "locales/vi.yml": [],
+  "locales/zh-CN.yml": [],
+  "node_modules/.pnpm/@intlify+shared@9.1.9/node_modules/@intlify/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+message-resolver@9.1.9/node_modules/@intlify/message-resolver/dist/message-resolver.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+runtime@9.1.9/node_modules/@intlify/runtime/dist/runtime.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+message-compiler@9.1.9/node_modules/@intlify/message-compiler/dist/message-compiler.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+devtools-if@9.1.9/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler.js": [],
+  "node_modules/.pnpm/@intlify+core-base@9.1.9/node_modules/@intlify/core-base/dist/core-base.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+shared@3.2.33/node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+reactivity@3.2.33/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-core@3.2.33/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/.pnpm/@vue+runtime-dom@3.2.33/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/.pnpm/vue-i18n@9.1.9_vue@3.2.33/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler.js": [],
+  "src/modules/i18n.ts": [],
+  "\u0000commonjsHelpers.js": [],
+  "\u0000/Users/emilychen/Desktop/playground/reusable_component_note/node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js?commonjs-module": [],
+  "node_modules/.pnpm/nprogress@0.2.0/node_modules/nprogress/nprogress.js": [],
+  "src/modules/nprogress.ts": [],
+  "node_modules/.pnpm/vue-demi@0.12.5_vue@3.2.33/node_modules/vue-demi/lib/index.mjs": [],
+  "node_modules/.pnpm/pinia@2.0.13_typescript@4.6.3+vue@3.2.33/node_modules/pinia/dist/pinia.esm-browser.js": [],
+  "src/modules/pinia.ts": [],
+  "vite/preload-helper": [],
+  "src/modules/pwa.ts": [],
+  "node_modules/.pnpm/vue-router@4.0.14_vue@3.2.33/node_modules/vue-router/dist/vue-router.esm-bundler.js": [],
+  "node_modules/.pnpm/@vueuse+head@0.7.6_vue@3.2.33/node_modules/@vueuse/head/dist/index.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.19.2_eacfe4bd4e3401e3e0916bc5279e5ce7/node_modules/vite-ssg/dist/chunks/state.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.19.2_eacfe4bd4e3401e3e0916bc5279e5ce7/node_modules/vite-ssg/dist/chunks/ClientOnly.mjs": [],
+  "node_modules/.pnpm/vite-ssg@0.19.2_eacfe4bd4e3401e3e0916bc5279e5ce7/node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+shared@8.2.6_vue@3.2.33/node_modules/@vueuse/shared/index.mjs": [],
+  "node_modules/.pnpm/@vueuse+core@8.2.6_vue@3.2.33/node_modules/@vueuse/core/index.mjs": [],
+  "src/composables/dark.ts": [],
+  "src/components/Footer.vue": [],
+  "plugin-vue:export-helper": [],
+  "src/layouts/default.vue": [],
+  "../../../../../@vite-plugin-vue-layouts/generated-layouts": [],
+  "src/App.vue": [],
+  "src/components/SkelotonBox.vue?vue&type=style&index=0&scoped=true&lang.scss": [],
+  "src/components/SkelotonBox.vue": [],
+  "src/components/Observer.vue?vue&type=style&index=0&scoped=true&lang.css": [],
+  "src/components/Observer.vue": [],
+  "src/pages/index.vue?vue&type=style&index=0&lang.scss": [],
+  "../../../../../@vite-plugin-pages/route-block": [],
+  "src/pages/index.vue": [],
+  "../../../../../@vite-plugin-pages/generated-pages?id=~pages": [],
+  "node_modules/.pnpm/@unocss+reset@0.31.5/node_modules/@unocss/reset/tailwind.css": [],
+  "src/styles/main.css": [],
+  "../../../../../__uno.css": [],
+  "../../../../../@windicss/windi.css": [],
+  "src/main.ts": [],
+  "index.html": [],
+  "assets/app.46a6b4e3.js-unocss-hash.css": [],
+  "node_modules/.pnpm/workbox-window@6.5.3/node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
+    "/reusable_component_note/assets/virtual_pwa-register.f4b7419c.js"
+  ],
+  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
+    "/reusable_component_note/assets/virtual_pwa-register.f4b7419c.js"
+  ],
+  "src/layouts/404.vue": [
+    "/reusable_component_note/assets/404.abd9c040.js",
+    "/reusable_component_note/assets/404.d40d9366.css"
+  ],
+  "assets/404.abd9c040.js-unocss-hash.css": [
+    "/reusable_component_note/assets/404.abd9c040.js",
+    "/reusable_component_note/assets/404.d40d9366.css"
+  ],
+  "src/layouts/home.vue": [
+    "/reusable_component_note/assets/home.0ff72a5b.js",
+    "/reusable_component_note/assets/home.a6809f83.css"
+  ],
+  "assets/home.0ff72a5b.js-unocss-hash.css": [
+    "/reusable_component_note/assets/home.0ff72a5b.js",
+    "/reusable_component_note/assets/home.a6809f83.css"
+  ],
+  "src/pages/README.md": [
+    "/reusable_component_note/assets/README.180aec6b.js",
+    "/reusable_component_note/assets/README.f67f6dc1.css"
+  ],
+  "assets/README.180aec6b.js-unocss-hash.css": [
+    "/reusable_component_note/assets/README.180aec6b.js",
+    "/reusable_component_note/assets/README.f67f6dc1.css"
+  ],
+  "src/pages/[...all].vue": [
+    "/reusable_component_note/assets/_...all_.dc4b5938.js",
+    "/reusable_component_note/assets/README.f67f6dc1.css"
+  ],
+  "assets/_...all_.dc4b5938.js-unocss-hash.css": [
+    "/reusable_component_note/assets/_...all_.dc4b5938.js",
+    "/reusable_component_note/assets/README.f67f6dc1.css"
+  ],
+  "src/pages/about.md": [
+    "/reusable_component_note/assets/about.660a5cf7.js",
+    "/reusable_component_note/assets/about.f4a17ace.css"
+  ],
+  "assets/about.660a5cf7.js-unocss-hash.css": [
+    "/reusable_component_note/assets/about.660a5cf7.js",
+    "/reusable_component_note/assets/about.f4a17ace.css"
+  ],
+  "src/stores/user.ts": [
+    "/reusable_component_note/assets/_name_.14756e16.js",
+    "/reusable_component_note/assets/_name_.8309ebcd.css"
+  ],
+  "src/pages/hi/[name].vue": [
+    "/reusable_component_note/assets/_name_.14756e16.js",
+    "/reusable_component_note/assets/_name_.8309ebcd.css"
+  ],
+  "assets/_name_.14756e16.js-unocss-hash.css": [
+    "/reusable_component_note/assets/_name_.14756e16.js",
+    "/reusable_component_note/assets/_name_.8309ebcd.css"
+  ]
+}
