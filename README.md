@@ -28,6 +28,9 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 - SkelotonBox
 預載樣式，可作為打api前的預載樣式，優化使用者體驗，特別於須等候的ＳＳＲ網頁。
 
+- Observer
+結合intersection observer api，製作一個可複用的頁面監控器，在無限卷軸，或動態錨點都適用。
+
 ## Features
 
 - ⚡️ [Vue 3](https://github.com/vuejs/vue-next), [Vite 2](https://github.com/vitejs/vite), [pnpm](https://pnpm.js.org/), [ESBuild](https://github.com/evanw/esbuild) - born with fastness
